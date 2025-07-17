@@ -1,7 +1,12 @@
 # Interdynamic KG99 + Intratec Tec9, DC9, & AB10 Brass Catcher
 Brass catcher for Intradynamic, Intratec TEC9, including "mini" variants. 
 
-* [Interdynamic KG99 + Intratec Tec9, DC9, & AB10 Brass Catcher](#interdynamic-kg99--intratec-tec9-dc9--ab10-brass-cacther) 
+The large version will *hold* approximately 150 casings. It is not recommended to have any more than 100 total however. 
+Likewise the small version will *hold* approximately 100 casings, but it is not recommended to have any more than 75 rounds total. 
+
+Ignoring the max round counts can induce jamming by causing the casings to reflect back into the ejection port. Please report jamming problems via the [issues](https://github.com/MAVProxyUser/Interdynamic-Intratec-brass-catcher/issues) page, note the extractor type (OEM, or aftermarket replacement), and the round count at which point the jam occured. Standard Tec9 jamming need not apply, only *stove pipe* style issues that are caused by improper deflection into the catcher are applicable. 
+
+* [Interdynamic KG99 + Intratec Tec9, DC9, & AB10 Brass Catcher](#Interdynamic-Intratec-brass-catcher) 
    * [Project Design](#project-design)
    * [Use](#use)
    * [Licensing, and access to these files](#licensing-and-access-to-these-files)
