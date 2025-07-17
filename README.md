@@ -20,6 +20,9 @@ This was modeled after EL MFG Part No 124, and slightly modified for use with Cz
 
 Snap it right on... or in the case of the mini variants, first ensure that you've seated the catcher under the rear rail gap in order to hold it snugly in place. 
 
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-brass-catcher/refs/heads/main/AB10.png"><br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-brass-catcher/refs/heads/main/DC9.png"><br>
+
 ## Licensing, and access to these files
 These STEP files are released with Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licensing. 
 <p align="left">
