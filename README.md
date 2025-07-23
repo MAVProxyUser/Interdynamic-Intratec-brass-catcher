@@ -6,6 +6,8 @@ Likewise the small version will *hold* approximately 100 casings, but it is not 
 
 Ignoring the max round counts can induce jamming by causing the casings to reflect back into the ejection port. Please report jamming problems via the [issues](https://github.com/MAVProxyUser/Interdynamic-Intratec-brass-catcher/issues) page, note the extractor type (OEM, or aftermarket replacement), and the round count at which point the jam occured. Standard Tec9 jamming need not apply, only *stove pipe* style issues that are caused by improper deflection into the catcher are applicable. 
 
+I'd print this like anything else... word on the street is "if your printer bridges well enough you dont even need supports". If you are printing this I'm going to assume this isn't your first rodeo. 
+
 * [Interdynamic KG99 + Intratec Tec9, DC9, & AB10 Brass Catcher](#Interdynamic-Intratec-brass-catcher) 
    * [Project Design](#project-design)
    * [Use](#use)
